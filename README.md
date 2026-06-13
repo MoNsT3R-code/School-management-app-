@@ -263,4 +263,3 @@ Configuration: Check config.py (Python modules)
 ### 📄 License
 This project is developed for Al-Noor Islamic Academy. Contact institution for usage rights.
 
-Built with ❤️ for Islamic Education Excellence
